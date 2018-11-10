@@ -1,0 +1,18 @@
+.inputs{
+    width: 70%;
+    height: 2.3rem;
+    margin-top: 1rem;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.btns{
+    width: 50%;
+    background-color: #0aaa9e;
+    margin-top: 2rem;
+    color: white;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
