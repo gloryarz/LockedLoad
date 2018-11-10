@@ -48,3 +48,7 @@ var platform = new H.service.Platform({
   geocoder.geocode(geocodingParams, onResult, function(e) {
     alert(e);
   });
+
+ 
+  const btnForm = document.getElementById('btnForm');
+
