@@ -1,0 +1,40 @@
+.map{
+    width: 100wh;
+    height: 85vh;
+}
+
+.logo{
+    height: 80%;
+}
+
+.navv{
+    background-color: white;
+    height: 4rem;
+    width: 100%;
+}
+
+.inputs{
+    background-color: rgba(250, 253, 255, 0.52);
+    border: .5px solid #0aaa9e;
+    border-radius: 2px;
+    height: 1.8rem;
+}
+
+.p{
+    display: inline;
+    margin-left: 2rem;
+    margin-right: 1rem;
+}
+
+.btns{
+    background-color: #0aaa9e;
+    color: white;
+    height: 2rem;
+    margin-left: 1rem;
+    border-radius: 5px;
+}
+
+.txt{
+    font-size: 1.3rem;
+    color: #0aaa9e;
+}
